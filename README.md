@@ -18,7 +18,7 @@ The game has three main views:
 
 ## Starter Code
 #### Udacity supplied us with the following:
-1. An API in the form of a binary held in the /bin folder. My work was 100% in the front end.
+1. An API in the form of a binary held in the /bin folder - this could not be changed. My work was 100% in the front end.
 2. I added all images and updated some syling in HTML and CSS. However, the focus of this course section was not UI development or styling, so Udacity provided pieces of UI in HTML, and I just had to call them in JS code at the right times. 
 
 ## Setup/Dependencies
