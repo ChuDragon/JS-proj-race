@@ -1,10 +1,10 @@
 # Course: Intermediate JavaScript
-### Part 4. Asynchronous Programming with JavaScript
-### Project 3. UdaciRacer Simulator
+### Section: Asynchronous Programming with JavaScript
+### Project: UdaciRacer Simulator
 
 ## Student Developer: Roman Chuyan
 The focus of this project was practicing asynchronous JS code: promises, async/await, setInterval, callbacks, as well as exception handling.
-I use mostly ES6 syntax, and try to adhere to best practices on variable declaration and comments. 
+I use ES6 syntax including variable declaration (const, let only if needed), and follow best practices on structure and comments. 
 This is a learning project (not meant for production), focusing on mastering the concepts rather than perfecting the app.
 See Concepts Practiced below. Finally, I plan to leave the code as-is at this stage of my progress as a developer.
 
