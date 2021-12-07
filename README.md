@@ -53,4 +53,4 @@ Promises was the primary method for dealing with API responses. I chained .then/
 Async/await was used in game processes, to wait for those asynchronous calls the output of which was required for subsequent logic. 
 
 ### Exception Handling 
-I added error handling logic in the form of try/catch or.catch to all async functions.
+I included error handling logic in the form of try/catch or .catch in all async functions.
